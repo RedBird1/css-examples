@@ -1,0 +1,18 @@
+
+/*nav bar*/
+.nav-bar {
+  postion: absolute;
+  top:1;
+  background-color: #231F20;
+}
+
+.nav-bar-item {
+  display: inline;
+}
+
+.nav-bar-item a {
+  text-decoration: none;
+  font: bookman;
+  font-size: 33px;
+  color: #EEF0F2;
+}
