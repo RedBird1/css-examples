@@ -32,7 +32,7 @@ p {
 
 /*nav bar*/
 .nav-bar {
-  padding: 40px, 0px, 0px, 0px;
+  padding: 5px 0px 0px 0px;
   height: 100%;
   background-color: #231F20;
 }
@@ -42,7 +42,7 @@ p {
 }
 
 .nav-bar-item span {
-  margin: 100px, 100px,0px,0px;
+  padding: 0px 22px 22px 0px;
 }
 
 .nav-bar-item a {
